@@ -27,6 +27,6 @@ Meetings are also recorded and shared on the main ORCA mailing list.
 | ---- | -------- | ----- | --------- | ------------ | ---- |
 | Alexios Voulimeneas | | a.voulimeneas@tudelft.nl | [@balexios](https://github.com/balexios) | TU Delft | April 2026 - March 2027 |
 | Derrick McKee | | derrick.mckee@gmail.com | [@deadly-platypus](https://github.com/deadly-platypus) | MIT Lincoln Laboratory | April 2026 - March 2027 |
-| Glenn Ricart | | glenn.ricart@us-ignite.org | [@gricart](https://github.com/gricart) | US Ignite and Univerity of Utah | April 2026 - March 2027 |
+| Glenn Ricart | | glenn.ricart@us-ignite.org | [@gricart](https://github.com/gricart) | US Ignite and University of Utah | April 2026 - March 2027 |
 | Justin Cappos | | jcappos@nyu.edu | [@JustinCappos](https://github.com/JustinCappos) | New York University | April 2026 - March 2027 |
 | Xiaoyi Lu | | xiaoyilu@ufl.edu | [@cherishlxy](https://github.com/cherishlxy) | University of Florida | April 2026 - March 2027 |

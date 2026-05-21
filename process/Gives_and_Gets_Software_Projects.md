@@ -9,8 +9,8 @@ Also note that benefits may actually vary based on resources and funds availabil
 ## Sandbox Level Gives & Gets
 
 ### Gives/Requirements
-* [PR filed] (https://github.com/ORCA-LF/tsc/pulls) to enter the sandbox stage.
-* Project must be aligned with the [ORCA mission] (https://docs.google.com/document/d/1r8CyeJBo9hHDggBvjk4o9GmKI2xNit-0wwjmwDnXyWk/edit?tab=t.0#heading=h.iubcu7w2p6mf) and either be a novel approach for existing areas or address an unfulfilled need. It is preferred that extensions of existing ORCA projects collaborate with the existing project rather than seek a new project.
+* [PR filed](https://github.com/ORCA-LF/tsc/pulls) to enter the sandbox stage.
+* Project must be aligned with the [ORCA mission](https://docs.google.com/document/d/1r8CyeJBo9hHDggBvjk4o9GmKI2xNit-0wwjmwDnXyWk/edit?tab=t.0#heading=h.iubcu7w2p6mf) and either be a novel approach for existing areas or address an unfulfilled need. It is preferred that extensions of existing ORCA projects collaborate with the existing project rather than seek a new project.
 * Project must maintain a diversified contributor base (i.e. not a single-vendor project).  Project must have a minimum of three contributors with a minimum of two different organization affiliations.
 * Project must have and maintain a history of producing public software releases, including a software pipeline that others are able to build.  Adequate tests and getting started instructions must exist to enable execution and use of the platform in reasonable environments by interested parties. Developers are responsible for responding in an appropriate way to issues on their tracker. There must be a reasonable balance of stability and a cadence of fixes.
 * Project agrees to follow the Secure Software Development Guiding Principles (TODO: add document link) and the Open Source Consumption Manifesto (TODO: add document link).
@@ -37,13 +37,13 @@ Also note that benefits may actually vary based on resources and funds availabil
 ## Incubating Level Gives & Gets
 
 ### Gives/Requirements
-* All requirements of Sandbox must be fulfilled. [
-* PR filed] (https://github.com/ORCA-LF/tsc/pulls) to promote Project to Incubating stage.
+* All requirements of Sandbox must be fulfilled.
+* [PR filed](https://github.com/ORCA-LF/tsc/pulls) to promote Project to Incubating stage.
 * Project must have documented, initial group governance.
 * Project maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions, and documents the current list of maintainers.
 * Project must have a minimum of three contributors with a minimum of two different organization affiliations.
 * Project has had public meetings at least 5 times within the last calendar quarter.  In most cases, this should occur after a project was admitted to Sandbox, but this may be waived by the TSC for projects with a mature and diverse public community. It is recommended that projects have monthly, public community meetings.
-* Project must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore] (https://github.com/sigstore/community/blob/main/CONTRIBUTING.md), [AllStar] (https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
+* Project must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/CONTRIBUTING.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Project should be able to show adoption (ideally by multiple parties) and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
 * The software project's source code:
 	* Implements, practices, and refines mature software development and release practices such as following a version schema.
@@ -56,7 +56,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 Projects are eligible to receive all Gets from Sandbox plus:
 * May request custom ORCA Logo for the group.
 * May use the ORCA logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "ORCA Project" or "ORCA $ProjectName."
-* Gets an ["incubating" badge] (TODO: Add link) that is shared amongst all ORCA incubating Projects.
+* Gets an ["incubating" badge](TODO : Add link) that is shared amongst all ORCA incubating Projects.
 * May post project updates and tutorials to the ORCA blog.
 * Receives higher priority for ORCA staff support than Sandbox, less than Graduated.
 * May request swag bearing custom ORCA Logo (funds permitting).
@@ -65,7 +65,7 @@ Projects are eligible to receive all Gets from Sandbox plus:
 
 ### Gives/Requirements
 * All requirements of incubating must be fulfilled.
-* [PR filed] (https://github.com/ORCA-LF/tsc/pulls) to promote Project to graduated stage.
+* [PR filed](https://github.com/ORCA-LF/tsc/pulls) to promote Project to graduated stage.
 * Project must have documented governance and be able to demonstrate that governance in action.
 * Project has a defined and documented roadmap and annual goals.
 * Project has met at least 4 times over a period of at least 2 months since becoming Incubating.
@@ -84,5 +84,5 @@ Project are eligible to receive all Gets from Incubating plus:
 * May post project updates and tutorials to the ORCA blog.
 * May request ORCA budget for project improvements such as security audits (subject to availability of funds).
 * May use the ORCA logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "ORCA Project" or "ORCA $ProjectName."
-* Gets a "graduated" badge [TODO: Add link] that is shared amongst all ORCA graduated Projects.
+* Gets a ["graduated" badge](TODO: Add link) that is shared amongst all ORCA graduated Projects.
 * Highest priority for ORCA staff support.

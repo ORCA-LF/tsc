@@ -18,7 +18,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 * If contributing an existing Project to the ORCA, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 * Project must provide quarterly updates to the TSC on technical vision and progress on vision.
 * Project must have a plan for deployment in practice or evidence of practical experimentation.
-* Project will have a SECURITY.md (TODO: Add document link) that describes how the Project manages vulnerabilities.
+* Project will have a [SECURITY.md](https://github.com/ORCA-LF/tsc/blob/main/process/SECURITY.md) that describes how the Project manages vulnerabilities.
 * The Project team must give a presentation on the project at a public TSC meeting or ORCA Tech Talk
 * A project must continually meet all requirements.  Any project which fails to meet the requirements above, may be archived, demoted, or removed from ORCA stewardship at the discretion of the TSC.
 
@@ -27,7 +27,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 * Project receives guidance on technical direction from the TSC.
 * Project may request basic infrastructure support from the ORCA (e.g., mailing list and github repo).
 * Projects may say they are, "A sandbox project in the ORCA" or "An experimental project in the ORCA".
-* Project gets a "sandbox" badge (TODO: Add link to badge) that is shared amongst all ORCA sandbox Projects.
+* Project gets a "sandbox" badge.
 * Project receives communication & collaboration support through ORCA mailing list, ORCA Slack channel, ORCA GitHub, ORCA Calendaring / Recording through Linux Foundation,  ORCA Social Media & External Engagement Support, etc. 
 * Project receives best-effort ORCA staff support.
 * Project receives consideration as in-scope for any submission to an ORCA-managed conference or event.
@@ -48,15 +48,15 @@ Also note that benefits may actually vary based on resources and funds availabil
 * The software project's source code:
 	* Implements, practices, and refines mature software development and release practices such as following a version schema.
 	* Follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Baseline criteria, secret scanning, and code scanning.
-	* Maintains a point of contact for vulnerability reports in the security.md [TODO: Add link].
+	* Maintains a point of contact for vulnerability reports in the [SECURITY.md](https://github.com/ORCA-LF/tsc/blob/main/process/SECURITY.md).
 	* Begins to establish the appropriate governance that enables its sustainment for potential graduation.
 
 
 ### Gets/Benefits
 Projects are eligible to receive all Gets from Sandbox plus:
-* May request custom ORCA Logo for the group.
+* May request custom ORCA Logo for the project.
 * May use the ORCA logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "ORCA Project" or "ORCA $ProjectName."
-* Gets an ["incubating" badge](TODO : Add link) that is shared amongst all ORCA incubating Projects.
+* Gets an incubating badge.
 * May post project updates and tutorials to the ORCA blog.
 * Receives higher priority for ORCA staff support than Sandbox, less than Graduated.
 * May request swag bearing custom ORCA Logo (funds permitting).
@@ -84,5 +84,5 @@ Project are eligible to receive all Gets from Incubating plus:
 * May post project updates and tutorials to the ORCA blog.
 * May request ORCA budget for project improvements such as security audits (subject to availability of funds).
 * May use the ORCA logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "ORCA Project" or "ORCA $ProjectName."
-* Gets a ["graduated" badge](TODO: Add link) that is shared amongst all ORCA graduated Projects.
+* Gets a graduated badge.
 * Highest priority for ORCA staff support.

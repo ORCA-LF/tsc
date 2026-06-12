@@ -27,7 +27,6 @@ Also note that benefits may actually vary based on resources and funds availabil
 * Project receives guidance on technical direction from the TSC.
 * Project may request basic infrastructure support from the ORCA (e.g., mailing list and github repo).
 * Projects may say they are, "A sandbox project in the ORCA" or "An experimental project in the ORCA".
-* Project gets a "sandbox" badge.
 * Project receives communication & collaboration support through ORCA mailing list, ORCA Slack channel, ORCA GitHub, ORCA Calendaring / Recording through Linux Foundation,  ORCA Social Media & External Engagement Support, etc. 
 * Project receives best-effort ORCA staff support.
 * Project receives consideration as in-scope for any submission to an ORCA-managed conference or event.
@@ -56,7 +55,6 @@ Also note that benefits may actually vary based on resources and funds availabil
 Projects are eligible to receive all Gets from Sandbox plus:
 * May request custom ORCA Logo for the project.
 * May use the ORCA logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "ORCA Project" or "ORCA $ProjectName."
-* Gets an incubating badge.
 * May post project updates and tutorials to the ORCA blog.
 * Receives higher priority for ORCA staff support than Sandbox, less than Graduated.
 * May request swag bearing custom ORCA Logo (funds permitting).
@@ -84,5 +82,4 @@ Project are eligible to receive all Gets from Incubating plus:
 * May post project updates and tutorials to the ORCA blog.
 * May request ORCA budget for project improvements such as security audits (subject to availability of funds).
 * May use the ORCA logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "ORCA Project" or "ORCA $ProjectName."
-* Gets a graduated badge.
 * Highest priority for ORCA staff support.

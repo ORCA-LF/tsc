@@ -6,6 +6,6 @@ please report that directly to the project maintaining that code, preferably usi
 GitHub's [Private Vulnerability Reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability).
 
 If you've been unable to find a way to report it, or have received no response after repeated attempts,
-please contact the ORCA security contact email, [security@orca.org](mailto:security@orca.org).
+please contact the ORCA security contact email, [security@orca.org](mailto:security@orca-lf.org).
 
 Thank you.

@@ -40,7 +40,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 * [PR filed](https://github.com/ORCA-LF/tsc/pulls) to promote Project to Incubating stage.
 * Project must have documented, initial group governance.
 * Project maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions, and documents the current list of maintainers.
-* Project must have a minimum of three contributors with a minimum of two different organization affiliations.
+* Project must have a minimum of three maintainers with a minimum of two different organization affiliations.
 * Project has had public meetings at least 5 times within the last calendar quarter.  In most cases, this should occur after a project was admitted to Sandbox, but this may be waived by the TSC for projects with a mature and diverse public community. It is recommended that projects have monthly, public community meetings.
 * Project must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/CONTRIBUTING.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Project should be able to show adoption (ideally by multiple parties) and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.

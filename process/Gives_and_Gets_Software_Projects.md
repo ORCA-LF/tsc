@@ -67,7 +67,7 @@ Projects are eligible to receive all Gets from Sandbox plus:
 * Project must have documented governance and be able to demonstrate that governance in action.
 * Project has a defined and documented roadmap and annual goals.
 * Project has met at least 4 times over a period of at least 2 months since becoming Incubating.
-* Project must have a minimum of five participants with a minimum of three different organization affiliations.
+* Project must have a minimum of five maintainers from a minimum of three different organization affiliations.
 * Project that develops code should do the following:
 	* Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 	* Must be able to show a consistent release cadence.

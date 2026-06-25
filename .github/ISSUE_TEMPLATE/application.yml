@@ -1,0 +1,306 @@
+---
+name: ORCA application
+description: Apply to join ORCA
+title: "[ORCA] <Project Name>"
+labels: ["New"]
+# assignees: []          # optional: auto-assign reviewers, e.g. ["org/triage-team"]
+# projects: ["ORCA/1"]   # optional: auto-add to a project board
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Read before proceeding
+
+        Thank you for applying to ORCA. Please familiarize yourself with:
+
+        - [ORCA Mission, Vision & Strategy](https://orca-lf.org/#mvsr)
+        - [ORCA Project Lifecycle & Process](https://github.com/ORCA-LF/tsc/blob/main/process/Gives_and_Gets_Software_Projects.md)
+        - ORCA IP / licensing policy <!-- TODO: link -->
+
+        This form will ask you to provide:
+
+        - **Basic project information** – High-level project goals.
+        - **Project details** – In-depth information about the project and its current state.
+        - **Ecosystem context** – How this project fits into the broader ecosystem.
+        - **Policies** – How the project aligns with ORCA expectations.
+        - **Contact information** – Who to contact with questions and who can sign any agreements.
+        - **Additional information** – Anything else that helps inform the review.
+
+        > [!CAUTION]
+        > The ORCA TSC MUST approve your application before your project is
+        > considered an official ORCA project.
+
+        <br />
+
+        ---
+
+        # ORCA Application form
+
+        Please fill out the form below as completely as possible. Reviewers may post
+        follow-up questions as comments on this issue.
+
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+
+        ## :clipboard: Basic project information
+
+        Describe the project at a high level.
+
+  - type: input
+    attributes:
+      label: Project summary
+      description: Provide a very brief, single line summary of the project.
+      placeholder: One-line summary of the project
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Project description
+      description: Provide a brief, 100-300 word description of the project that explains what it does and why it's needed.
+      placeholder: Describe what the project does, why it's needed, and what gaps it fills.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+
+        ## :books: Project details
+
+        Provide detailed information about the project and its current state.
+
+  - type: input
+    attributes:
+      label: Org repo URL (provide if all repos under the org are in scope)
+      description: URL of the GitHub/GitLab organization if all repos under it are in scope. If no organization, write "N/A".
+      placeholder: Add org URL here
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Project repo URL in scope of application
+      description: URL of the primary source code repo. If all repos under the org are in scope, write "N/A" and enumerate any partial scope below.
+      placeholder: Add code repo URL here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional repos in scope of the application
+      description: URLs of any additional repos for this application, if appropriate.
+      placeholder: Add additional repo URLs here
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Website URL
+      description: URL of the project's website. If none, provide the primary repo URL again.
+      placeholder: Add website URL here
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Roadmap
+      description: URL of the project's roadmap.
+      placeholder: Add roadmap URL here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Roadmap context
+      description: Optionally provide any details of the roadmap or direction of the project needed for clarity.
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Contributing guide
+      description: URL of the project's contribution guide. Deep link to the relevant header if embedded in another file.
+      placeholder: Add contributing guide URL here
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Code of Conduct (CoC)
+      description: URL of the project's code of conduct.
+      placeholder: Add CoC URL here
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Adopters
+      description: URL of the project's Adopters file, if one exists.
+      placeholder: Add adopters URL here
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Maintainers file
+      description: URL of the project's maintainers file.
+      placeholder: Add maintainer URL here
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Security policy file
+      description: URL of the project's security policy (e.g. SECURITY.md).
+      placeholder: Add security policy URL here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Standard or specification?
+      description: If this project is, or includes, a standard or specification, provide details. If not, write "N/A".
+      placeholder: Add details, or write "N/A"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Business product or service to project separation
+      description: If this project relates to a product/service of a sponsoring organization, explain how you'll separate the project from products in terms of organization and development. If unrelated, or the contributor is not a business, write "This project is unrelated to any product or service."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+
+        ## :globe_with_meridians: Ecosystem context
+
+        How does this project fit into the broader ecosystem?
+
+  - type: textarea
+    attributes:
+      label: Why ORCA?
+      description: Why do you want to contribute the project to ORCA? What value does joining provide the project?
+      placeholder: ORCA can provide the project with...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Benefit to the ecosystem
+      description: How will adding this project benefit the ecosystem? What does it differentiate or enhance versus existing projects?
+      placeholder: This project benefits the ecosystem by...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Integration
+      description: What existing ORCA projects does this project complement or depend on, and how?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Overlap
+      description: What existing ORCA projects does this project overlap with, and how?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Similar projects
+      description: List similar projects inside or outside ORCA. If none, write "N/A".
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+
+        ## :blue_book: Policies
+
+        How does the project align with ORCA expectations?
+
+  - type: checkboxes
+    id: trademark
+    attributes:
+      label: Trademark and accounts
+      description: If accepted, project trademarks (such as the project name) and accounts will be donated to ORCA. <!-- TODO: link to IP policy -->
+      options:
+        - label: If the project is accepted, I agree to donate all project trademarks and accounts to ORCA
+          required: true
+
+  - type: checkboxes
+    id: ippolicy
+    attributes:
+      label: IP policy
+      description: If accepted, the project will be required to follow the ORCA IP Policy. <!-- TODO: link -->
+      options:
+        - label: If the project is accepted, I agree the project will follow the ORCA IP Policy
+          required: true
+
+  - type: textarea
+    attributes:
+      label: Will the project require a license exception?
+      description: Does this project use a license other than the ones on ORCA's allowed list? If no, write "N/A". <!-- TODO: link to allowed license list -->
+      placeholder: Add details, or write "N/A"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+
+        ## :envelope: Contact information
+
+        Who to contact with questions, and who can sign any required agreements.
+
+  - type: textarea
+    attributes:
+      label: Application contact email(s)
+      description: Email address(es) to contact about this application. Comma-separate multiple emails.
+      placeholder: Comma-separate multiple emails here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Contributing or sponsoring entity signatory information
+      description: The person or people who would sign any agreement assigning trademarks, domains, and accounts.
+      value: "If an organization:\n| Name | Address | Type (e.g., Delaware corporation) | Signatory name and title | Email address |\n|-----------|-----------|-----------|-----------|-----------|\n|            |            |            |            |            |\n\nOr, if an individual or individual(s):\n| Name | Country | Email address |\n|-----------|-----------|-----------|\n|            |            |            |"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+
+        ## :heavy_plus_sign: Additional information
+
+        Anything else that can help inform the review.
+
+  - type: textarea
+    attributes:
+      label: ORCA contacts
+      description: List any ORCA leadership who are familiar with, and can answer questions about, your project.
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Additional information
+      description: Any other information you'd like reviewers to consider?
+    validations:
+      required: false

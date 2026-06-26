@@ -16,7 +16,7 @@ body:
 
         - [ORCA Mission, Vision & Strategy](https://orca-lf.org/#mvsr)
         - [ORCA Project Lifecycle & Process](https://github.com/ORCA-LF/tsc/blob/main/process/Gives_and_Gets_Software_Projects.md)
-        - ORCA IP / licensing policy <!-- TODO: link -->
+        - [ORCA IP / licensing policy](https://github.com/ORCA-LF/governance/blob/main/4._License.md)
 
         This form will ask you to provide:
 
@@ -235,7 +235,7 @@ body:
     id: trademark
     attributes:
       label: Trademark and accounts
-      description: If accepted, project trademarks (such as the project name) and accounts will be donated to ORCA. <!-- TODO: link to IP policy -->
+      description: If accepted, project trademarks (such as the project name) and [accounts will be donated to ORCA](https://github.com/ORCA-LF/governance/blob/main/4._License.md).
       options:
         - label: If the project is accepted, I agree to donate all project trademarks and accounts to ORCA
           required: true
@@ -244,7 +244,7 @@ body:
     id: ippolicy
     attributes:
       label: IP policy
-      description: If accepted, the project will be required to follow the ORCA IP Policy. <!-- TODO: link -->
+      description: If accepted, the project will be required to follow the [ORCA IP Policy](https://github.com/ORCA-LF/governance/blob/main/4._License.md).
       options:
         - label: If the project is accepted, I agree the project will follow the ORCA IP Policy
           required: true
@@ -252,7 +252,7 @@ body:
   - type: textarea
     attributes:
       label: Will the project require a license exception?
-      description: Does this project use a license other than the ones on ORCA's allowed list? If no, write "N/A". <!-- TODO: link to allowed license list -->
+      description: Does this project use a license other than the ones on [ORCA's allowed list](https://github.com/ORCA-LF/governance/blob/main/4._License.md)? If no, write "N/A".
       placeholder: Add details, or write "N/A"
     validations:
       required: true

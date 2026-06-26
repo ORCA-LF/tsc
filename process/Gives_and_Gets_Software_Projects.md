@@ -6,12 +6,18 @@ Projects are initiatives that are hosted, managed and supported by ORCA aimed at
 
 Also note that benefits may actually vary based on resources and funds availability, or lack thereof.
 
+## Voting on Project Acceptance and Removal
+
+Decisions to accept a project into ORCA at any level, or to archive, demote, or remove a project from ORCA stewardship, are made by a vote of the TSC and require the approval of at least two-thirds (2/3) of the votes cast.
+
+- Voting members who are absent, do not cast a vote, or are recused due to a conflict of interest with the project under consideration are not counted toward the total against which the two-thirds threshold is calculated.
+- A vote is valid only if a quorum participates: at least a majority (more than half) of the TSC's eligible voting members must cast a vote. Members recused for a conflict of interest are excluded from both the quorum count and the threshold calculation. If quorum is not met, the decision does not carry and may be reconsidered at a subsequent meeting.
+
 ## Sandbox Level Gives & Gets
 
 ### Gives/Requirements
 * [PR filed](https://github.com/ORCA-LF/tsc/pulls) to enter the sandbox stage.
 * Project must be aligned with the [ORCA mission](https://docs.google.com/document/d/1r8CyeJBo9hHDggBvjk4o9GmKI2xNit-0wwjmwDnXyWk/edit?tab=t.0#heading=h.iubcu7w2p6mf) and either be a novel approach for existing areas or address an unfulfilled need. It is preferred that extensions of existing ORCA projects collaborate with the existing project rather than seek a new project.
-* Project must maintain a diversified contributor base (i.e. not a single-vendor project).  Project must have a minimum of three contributors with a minimum of two different organization affiliations.
 * Project must have and maintain a history of producing public software releases, including a software pipeline that others are able to build.  Adequate tests and getting started instructions must exist to enable execution and use of the platform in reasonable environments by interested parties. Developers are responsible for responding in an appropriate way to issues on their tracker. There must be a reasonable balance of stability and a cadence of fixes.
 * Project agrees to follow the [Secure Software Development Guiding Principles](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/SecureSoftwareGuidingPrinciples.md) and the [Open Source Consumption Manifesto](https://github.com/ossf/wg-endusers/tree/main/MANIFESTO).
 * Project must provide an accurate, up-to-date, and factual description of the capabilities and limitations of their project for use in ORCA webpages and other materials.  This must be approved by the project’s TSC sponsor or delegate.

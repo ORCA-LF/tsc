@@ -31,7 +31,7 @@ The project is public from the start, with development, repositories, and histor
 
 **What it protects.** Fully realizes ORCA's open-source mission: open collaboration, transparency, external contribution, and early adoption from day one.
 
-**Trade-offs.** Creates real COI and anonymity exposure. A public, author-identifying project can de-anonymize a paper under double-anonymous review and risk desk rejection. It also means anyone who has seen the project (including ORCA reviewers) may be able to identify the authors — which has downstream consequences for who may review the paper at its venue (see §6).
+**Trade-offs.** Creates real COI and anonymity exposure. Authors should not self identify as maintainers fo the project or similar as this may de-anonymize a paper under double-anonymous review and risk desk rejection. Instead authors should talk about contributing work to an ORCA project. It also means anyone who has seen the project (including ORCA reviewers) may be able to identify the authors — which has downstream consequences for who may review the paper at its venue (see §6).
 
 **Developer obligations under this pathway.**
 - Disclose at intake that an associated paper is or will be under submission, with venue and review window.

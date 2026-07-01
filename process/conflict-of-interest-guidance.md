@@ -35,7 +35,7 @@ The project is public from the start, with development, repositories, and histor
 
 **Developer obligations under this pathway.**
 - Disclose at intake that an associated paper is or will be under submission, with venue and review window.
-- Confirm that open development is compatible with the target venue's anonymity and dual-submission rules *before* relying on it.
+- Confirm that open development is compatible with the target venue's anonymity and dual-submission rules *before* relying on it.  However, note that this is allowed under ACM, IEEE, and USENIX Guidelines, so should be applicable to most computer science academic venues.
 - Optionally request a **quiet period**: ORCA withholds author-identifying promotion (blog posts, press, social) until after notification, even while the code stays public. ORCA grants this by default on request where a double-anonymous venue is involved.
 
 ### 3.3 Neither pathway is mandated

@@ -12,7 +12,7 @@ Foundation acceptance of a project is a governance and maturity decision. It is 
 
 ## 3. The two development pathways
 
-### 3.1 Pathway A — Closed development until paper acceptance
+### 3.1 The Closed Pathway — Closed development until paper acceptance
 
 The project is developed privately and is opened (repositories made public, announcement, promotion) only after the paper has been accepted or the venue's review is complete.
 
@@ -25,7 +25,7 @@ The project is developed privately and is opened (repositories made public, anno
 - Coordinate the timing of opening/announcing the project with the venue's notification schedule.
 - Confirm the closed-then-open plan is compatible with the venue's publication and anonymity rules.
 
-### 3.2 Pathway B — Open development from the beginning
+### 3.2 The Open Pathway — Open development from the beginning
 
 The project is public from the start, with development, repositories, and history visible throughout — including while the paper is under review.
 
@@ -48,7 +48,7 @@ Measures that reduce the chance a conflict ever materializes:
 
 - **Disclosure at intake (both pathways).** Every research project discloses, at submission to ORCA, whether a paper is under or headed to review, the venue, the review window, and the review model (single-anonymous / double-anonymous / open). This lets the TSC sequence public steps and assign reviewers cleanly.
 - **Confidentiality of evaluation materials.** TSC deliberations on a project with a paper under submission are confidential until the project is public.
-- **Timing controls.** For Pathway A, coordinate opening with notification; for Pathway B, offer the quiet period to protect anonymity without abandoning openness.
+- **Timing controls.** For closed pathway, coordinate opening with notification; for open pathway, offer the quiet period to protect anonymity without abandoning openness.
 - **Author responsibility for venue compatibility.** Venue rules differ and change between editions; the developer confirms compatibility and flags conflicts to the TSC before public steps are taken.
 - **Clean reviewer assignment.** When assigning the TSC member(s) who will shepherd a project, ORCA proactively avoids assigning anyone with a conflict (see §5.2), rather than discovering it later.
 

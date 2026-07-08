@@ -10,8 +10,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 
 Decisions to accept a project into ORCA at any level, or to archive, demote, or remove a project from ORCA stewardship, are made by a vote of the TSC and require the approval of at least two-thirds (2/3) of the votes cast.
 
-- Voting members who are absent, do not cast a vote, or are recused due to a conflict of interest with the project under consideration are not counted toward the total against which the two-thirds threshold is calculated.
-- A vote is valid only if a quorum participates: at least a majority (more than half) of the TSC's eligible voting members must cast a vote. Members recused for a conflict of interest are excluded from both the quorum count and the threshold calculation. If quorum is not met, the decision does not carry and may be reconsidered at a subsequent meeting.
+Voting members who are recused due to a conflict of interest with the project under consideration are not counted toward the total against which the two-thirds threshold is calculated.
 
 ## Sandbox Level Gives & Gets
 

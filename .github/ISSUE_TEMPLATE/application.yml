@@ -232,15 +232,6 @@ body:
         How does the project align with ORCA expectations?
 
   - type: checkboxes
-    id: trademark
-    attributes:
-      label: Trademark and accounts
-      description: If accepted, project trademarks (such as the project name) and [accounts will be donated to ORCA](https://github.com/ORCA-LF/governance/blob/main/4._License.md).
-      options:
-        - label: If the project is accepted, I agree to donate all project trademarks and accounts to ORCA
-          required: true
-
-  - type: checkboxes
     id: ippolicy
     attributes:
       label: IP policy

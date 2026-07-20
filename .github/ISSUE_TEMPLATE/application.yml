@@ -1,6 +1,6 @@
 ---
 name: ORCA Sandbox application
-description: Apply to join ORCA
+description: Apply to join ORCA Sandbox
 title: "[Sandbox Project] <Project Name>"
 labels: ["New"]
 # assignees: []          # optional: auto-assign reviewers, e.g. ["org/triage-team"]

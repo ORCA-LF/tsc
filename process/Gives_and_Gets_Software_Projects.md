@@ -24,7 +24,7 @@ Voting members who are recused due to a conflict of interest with the project un
 * Project must provide quarterly updates to the TSC on technical vision and progress on vision.
 * Project must have a plan for deployment in practice or evidence of practical experimentation.
 * Project will have a [SECURITY.md](https://github.com/ORCA-LF/tsc/blob/main/process/SECURITY.md) that describes how the Project manages vulnerabilities.
-* The Project team must give a presentation on the project at a public TSC meeting or ORCA Tech Talk
+* The Project team must give a short presentation on the project (10 minutes, followed by 5 minutes of Q&A) during one of the public TSC meetings. 
 * A project must continually meet all requirements.  Any project which fails to meet the requirements above, may be archived, demoted, or removed from ORCA stewardship at the discretion of the TSC.
 
 ### Gets/Benefits

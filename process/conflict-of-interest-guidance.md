@@ -6,7 +6,7 @@ ORCA hosts projects that are frequently tied to ongoing academic research, where
 
 ## 2. Guiding principle: developer choice
 
-ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the project's developers**, not the Foundation. ORCA's role is to make the trade-offs of each pathway clear, to provide guidance that protects both the developer's publication and the integrity of the Foundation's decisions, and to handle conflicts consistently when they arise.
+ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the authors**, not the project, or the ORCA Foundation. The goal of this document is to make the trade-offs of each pathway clear, to provide guidance about how different choices impact the researcher publication and how different choices will impact the project in practice.
 
 Foundation acceptance of a project is a governance and maturity decision. It is **not** an academic publication and does not by itself constitute prior or concurrent publication of an associated paper. This separation holds regardless of which pathway a developer chooses.
 

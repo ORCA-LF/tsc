@@ -2,7 +2,9 @@
 
 ## 1. Purpose
 
-ORCA hosts projects that are frequently tied to ongoing academic research, where an associated paper may be under peer review at a venue such as ACM, IEEE, or USENIX. This creates a tension between two cultures: open-source development is public by default, while academic peer review is confidential and often anonymous. This document records the consensus reached by the TSC on how ORCA should approach conflicts of interest (COI) for such projects.
+ORCA hosts projects that are frequently the subject of ongoing academic research.  This may be early stage (e.g., a student begins experimenting with a feature addition) or at a later stage where an associated paper may be under peer review at a venue such as ACM, IEEE, or USENIX. This creates a tension between two cultures: open-source development is public by default, while academic peer review is confidential and often anonymous. This document records the guidance of the TSC on how authors contributing to an ORCA project should approach confidentiality and development.
+
+In practice, it is best to make a decision at the earliest stage of the project and to either work in the open or privately in a consistent manner.  Hence, we recommend that researchers read and discuss this early on in the lifecycle of the project.
 
 ## 2. Guiding principle: author choice
 

@@ -4,7 +4,7 @@
 
 ORCA hosts projects that are frequently tied to ongoing academic research, where an associated paper may be under peer review at a venue such as ACM, IEEE, or USENIX. This creates a tension between two cultures: open-source development is public by default, while academic peer review is confidential and often anonymous. This document records the consensus reached by the TSC on how ORCA should approach conflicts of interest (COI) for such projects.
 
-## 2. Guiding principle: developer choice
+## 2. Guiding principle: author choice
 
 ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the authors**, not the project, or the ORCA Foundation. The goal of this document is to make the trade-offs of each pathway clear, to provide guidance about how different choices impact the researcher publication and how different choices will impact the project in practice.
 

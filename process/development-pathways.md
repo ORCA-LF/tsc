@@ -1,12 +1,12 @@
-# ORCA — Conflict of Interest: Development Pathways
+# ORCA — Development Pathways
 
 This document is a companion to [Conflict of Interest Guidance for Research Projects](./conflict-of-interest-guidance.md) and describes the two development pathways available to research projects hosted on ORCA.
 
 ## 1. Guiding principle: developer choice
 
-ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the project's developers**, not the Foundation. ORCA's role is to make the trade-offs of each pathway clear, to provide guidance that protects both the developer's publication and the integrity of the Foundation's decisions, and to handle conflicts consistently when they arise.
+ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the project's developers**, not the Foundation. ORCA's role is to make the trade-offs of each pathway clear, to provide guidance that protects both the developer's publication and the integrity of the Foundation's decisions.
 
-Foundation acceptance of a project is a governance and maturity decision. It is **not** an academic publication and does not by itself constitute prior or concurrent publication of an associated paper. This separation holds regardless of which pathway a developer chooses.
+Foundation acceptance of a project is a governance and maturity decision. It is **not** based on academic publications and does not by itself constitute prior or concurrent publication of an associated paper. This separation holds regardless of which pathway a developer chooses.
 
 ## 2. The two development pathways
 

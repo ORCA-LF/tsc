@@ -8,30 +8,26 @@ In practice, it is best to make a decision at the earliest stage of the project 
 
 ## 2. Guiding principle: author choice
 
-ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the authors**, not the project, or the ORCA Foundation. The goal of this document is to make the trade-offs of each pathway clear, to provide guidance about how different choices impact the researcher publication and how different choices will impact the project in practice.
+ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of [development pathway](./development-pathways.md) belongs to the authors**, not the project, or the ORCA Foundation. This document covers how conflicts of interest are avoided and handled whichever pathway is chosen.
 
 
-## 3. The two development pathways
-
-ORCA offers developers a choice between a Closed Pathway (private development until paper acceptance) and an Open Pathway (public development from the start), each with its own protections, trade-offs, and developer obligations. See [Conflict of Interest: Development Pathways](./conflict-of-interest-pathways.md) for the full description of both pathways, and confirmation that neither is mandated.
-
-## 4. Area of concern 1 — Avoiding COI in the first place
+## 3. Area of concern 1 — Avoiding COI in the first place
 
 Measures that reduce the chance a conflict ever materializes:
 
-- **Disclosure at intake (both pathways).** Every research project discloses, at submission to ORCA, whether a paper is under or headed to review, the venue, the review window, and the review model (single-anonymous / double-anonymous / open). This lets the TSC sequence public steps and assign reviewers cleanly.
+- **Disclosure at intake (both development pathways).** Every research project discloses, at submission to ORCA, whether a paper is under or headed to review, the venue, the review window, and the review model (single-anonymous / double-anonymous / open). This lets the TSC sequence public steps and assign reviewers cleanly.
 - **Confidentiality of evaluation materials.** TSC deliberations on a project with a paper under submission are confidential until the project is public.
-- **Timing controls.** For closed pathway, coordinate opening with notification; for open pathway, offer the quiet period to protect anonymity without abandoning openness.
+- **Timing controls.** For closed development pathway, coordinate opening with notification; for open development pathway, offer the quiet period to protect anonymity without abandoning openness.
 - **Author responsibility for venue compatibility.** Venue rules differ and change between editions; the developer confirms compatibility and flags conflicts to the TSC before public steps are taken.
 - **Clean reviewer assignment.** When assigning the TSC member(s) who will shepherd a project, ORCA proactively avoids assigning anyone with a conflict (see §5.2), rather than discovering it later.
 
-## 5. Area of concern 2 — Handling COI when it happens
+## 4. Area of concern 2 — Handling COI when it happens
 
-### 5.1 General standard
+### 4.1 General standard
 
 A conflict exists where a member's objective judgment is — or would be perceived by a reasonable observer to be — compromised by a relationship to the work or its authors. This covers conflicts that are *actual, perceived, or potential*. Members err toward declaring. Self-assessment ("I can be objective") is not a sufficient safeguard; **disclosure and recusal are the operative controls.**
 
-### 5.2 Within the TSC (the Foundation's decision on a project)
+### 4.2 Within the TSC (the Foundation's decision on a project)
 
 - **Affirmative duty to disclose.** Every TSC member assesses and discloses any conflict with a project before its review. The duty is per-project and recurs for each project — a member clean on one may be conflicted on another. Members may keep standing disclosures of affiliations and funding on file so only project-specific conflicts need fresh declaration.
 - **Abstain and cite.** A conflicted member abstains from the vote and explicitly states the conflict.

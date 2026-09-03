@@ -11,17 +11,12 @@ In practice, it is best to make a decision at the earliest stage of the project 
 ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of [development pathway](./development-pathways.md) belongs to the authors**, not the project, or the ORCA Foundation. This document covers how conflicts of interest are avoided and handled whichever pathway is chosen.
 
 
-## 3. Area of concern 1 — Avoiding COI in the first place
+## 3. Managing conflicts with TSC members
 
-Measures that reduce the chance a conflict ever materializes:
+- If you submit a paper on an ORCA project to a conference, please consider whether some or all TSC members should be listed as conflicts.
+- If you identify a conflict with a TSC member when submitting an ORCA project to the TSC, they will be recused from the ORCA project review.
 
-- **Disclosure at intake (both development pathways).** Every research project discloses, at submission to ORCA, whether a paper is under or headed to review, the venue, the review window, and the review model (single-anonymous / double-anonymous / open). This lets the TSC sequence public steps and assign reviewers cleanly.
-- **Confidentiality of evaluation materials.** TSC deliberations on a project with a paper under submission are confidential until the project is public.
-- **Timing controls.** For closed development pathway, coordinate opening with notification; for open development pathway, offer the quiet period to protect anonymity without abandoning openness.
-- **Author responsibility for venue compatibility.** Venue rules differ and change between editions; the developer confirms compatibility and flags conflicts to the TSC before public steps are taken.
-- **Clean reviewer assignment.** When assigning the TSC member(s) who will shepherd a project, ORCA proactively avoids assigning anyone with a conflict (see §5.2), rather than discovering it later.
-
-## 4. Area of concern 2 — Handling COI when it happens
+## 4. Handling COI when it happens
 
 ### 4.1 General standard
 
@@ -33,9 +28,9 @@ A conflict exists where a member's objective judgment is — or would be perceiv
 - **Abstain and cite.** A conflicted member abstains from the vote and explicitly states the conflict.
 - **Reassign the sponsor.** If the member who would shepherd the project is conflicted, an unconflicted TSC member is assigned as sponsor instead.
 - **Quorum from the clean members.** Decisions proceed by majority of non-conflicted members; the TSC confirms a non-conflicted quorum under ORCA's bylaws.
-- **Document.** Each recusal is recorded in the minutes, naming the member and the nature of the conflict.
+- **Document.** Each recusal is recorded in the TSC minutes on the day of the project presentation, naming the member and the nature of the conflict.
 
-### 5.3 Cross-venue case (TSC member who is also a paper reviewer / PC member)
+### 4.3 Cross-venue case (TSC member who is also a paper reviewer / PC member)
 
 A particularly important case for ORCA: a TSC member may also sit on the program committee of the venue where a project's paper is submitted. Such a member is **conflicted as a reviewer of that paper** and should declare the conflict to the program chairs and recuse. Three independent grounds support this:
 
@@ -43,10 +38,10 @@ A particularly important case for ORCA: a TSC member may also sit on the program
 2. **Institutional stake** — ORCA has an interest in an admitted project's success, creating at least a perceived conflict.
 3. **Non-public information** — the member may hold information other reviewers lack.
 
-The program chairs make the final determination on the recusal; the member does not self-judge it as acceptable. **Symmetrically**, a TSC member who is a reviewer or PC member for a project's paper is also conflicted in ORCA's decision on that project and recuses under §5.2. This keeps the two review systems from contaminating each other in either direction.
+The program chairs make the final determination on the recusal; the member does not self-judge it as acceptable. **Symmetrically**, a TSC member who is a reviewer or PC member for a project's paper is also conflicted in ORCA's decision on that project and recuses under §4.2. This keeps the two review systems from contaminating each other in either direction.
 
 
-## 6. References
+## 5. References
 
 These sources informed the COI standards and the foundation-governance mechanics above. Conference URLs are edition-specific and revised each cycle; verify against the current edition and record an access date when adopting. For CNCF, prefer the primary GitHub repositories over third-party summaries.
 

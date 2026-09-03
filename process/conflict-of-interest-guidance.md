@@ -2,35 +2,28 @@
 
 ## 1. Purpose
 
-ORCA hosts projects that are frequently the subject of ongoing academic research.  This may be early stage (e.g., a student begins experimenting with a feature addition) or at a later stage where an associated paper may be under peer review at a venue hosted by an organization like ACM, IEEE, or USENIX. This creates a tension between two cultures: open-source development is public by default, while academic peer review is confidential and often anonymous. This document records the guidance of the TSC on how authors contributing to an ORCA project should approach confidentiality and development.
+This document discusses the scenarios when conflict of interest arises between a project and TSC members as well as how to resolve the conflict of interests when they arise.
 
-In practice, it is best to make a decision at the earliest stage of the project and to either work in the open or privately in a consistent manner.  Hence, we recommend that researchers read and discuss this early on in the lifecycle of the project.
+## 2. Conflict of Interest
 
-## 2. Guiding principle: author choice
+A conflict exists where a TSC member's objective judgment is — or would be perceived by a reasonable observer to be — compromised by a relationship to the work or its authors. This covers conflicts that are *actual, perceived, or potential*. Disclosure and recusal are the operative controls. Conflicts typically arise from situations such as:
 
-ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of [development pathway](./development-pathways.md) belongs to the authors**, not the project, or the ORCA Foundation. This document covers how conflicts of interest are avoided and handled whichever pathway is chosen.
+- A project submits a paper on an ORCA project to a research venue where a TSC member sits on the program committee. Conversely, when submitting such a paper, authors should consider whether some or all TSC members should be listed as conflicts.
+- One or more TSC members are close collaborators of the project.
 
+Both scenarios are handled the same way: disclosure followed by recusal, as described in §3.
 
-## 3. Managing conflicts with TSC members
+## 3. Handling COI when it happens
 
-- If you submit a paper on an ORCA project to a conference, please consider whether some or all TSC members should be listed as conflicts.
-- If you identify a conflict with a TSC member when submitting an ORCA project to the TSC, they will be recused from the ORCA project review.
+### 3.1 Within the TSC (the Foundation's decision on a project)
 
-## 4. Handling COI when it happens
-
-### 4.1 General standard
-
-A conflict exists where a member's objective judgment is — or would be perceived by a reasonable observer to be — compromised by a relationship to the work or its authors. This covers conflicts that are *actual, perceived, or potential*. Members err toward declaring. Self-assessment ("I can be objective") is not a sufficient safeguard; **disclosure and recusal are the operative controls.**
-
-### 4.2 Within the TSC (the Foundation's decision on a project)
-
-- **Affirmative duty to disclose.** Every TSC member assesses and discloses any conflict with a project before its review. The duty is per-project and recurs for each project — a member clean on one may be conflicted on another. Members may keep standing disclosures of affiliations and funding on file so only project-specific conflicts need fresh declaration.
+- **Affirmative duty to disclose.** Every TSC member assesses and discloses any conflict with a project before its review, covering both the paper-submission and close-collaborator scenarios described in §2. The duty is per-project and recurs for each project — a member clean on one may be conflicted on another. Members may keep standing disclosures of affiliations and funding on file so only project-specific conflicts need fresh declaration.
 - **Abstain and cite.** A conflicted member abstains from the vote and explicitly states the conflict.
 - **Reassign the sponsor.** If the member who would shepherd the project is conflicted, an unconflicted TSC member is assigned as sponsor instead.
 - **Quorum from the clean members.** Decisions proceed by majority of non-conflicted members; the TSC confirms a non-conflicted quorum under ORCA's bylaws.
 - **Document.** Each recusal is recorded in the TSC minutes on the day of the project presentation, naming the member and the nature of the conflict.
 
-### 4.3 Cross-venue case (TSC member who is also a paper reviewer / PC member)
+### 3.2 Cross-venue case (TSC member who is also a paper reviewer / PC member)
 
 A particularly important case for ORCA: a TSC member may also sit on the program committee of the venue where a project's paper is submitted. Such a member is **conflicted as a reviewer of that paper** and should declare the conflict to the program chairs and recuse. Three independent grounds support this:
 
@@ -38,10 +31,9 @@ A particularly important case for ORCA: a TSC member may also sit on the program
 2. **Institutional stake** — ORCA has an interest in an admitted project's success, creating at least a perceived conflict.
 3. **Non-public information** — the member may hold information other reviewers lack.
 
-The program chairs make the final determination on the recusal; the member does not self-judge it as acceptable. **Symmetrically**, a TSC member who is a reviewer or PC member for a project's paper is also conflicted in ORCA's decision on that project and recuses under §4.2. This keeps the two review systems from contaminating each other in either direction.
+The program chairs make the final determination on the recusal; the member does not self-judge it as acceptable. **Symmetrically**, a TSC member who is a reviewer or PC member for a project's paper is also conflicted in ORCA's decision on that project and recuses under §3.1. This keeps the two review systems from contaminating each other in either direction.
 
-
-## 5. References
+## 4. References
 
 These sources informed the COI standards and the foundation-governance mechanics above. Conference URLs are edition-specific and revised each cycle; verify against the current edition and record an access date when adopting. For CNCF, prefer the primary GitHub repositories over third-party summaries.
 

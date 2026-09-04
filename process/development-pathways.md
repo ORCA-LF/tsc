@@ -22,7 +22,7 @@ The project is developed privately and is opened (repositories made public, anno
 - Confirm the closed-then-open plan is compatible with the venue's publication and anonymity rules.
 
 **Summary.**
-This pathway is a positive for academic reviewers that care about novelty as the main goal and who do not value practical impact and for venues that do not do any sort of artifact evaluation.  This pathway also causing friction with the open source project and reduced the potential for practical impact.  
+This pathway is a positive for academic reviewers who treat novelty as the main goal and place little value on practical impact and for venues that do not do any sort of artifact evaluation.  This pathway also causing friction with the open source project and reduced the potential for practical impact.  
 
 ### 2.2 The Open Pathway — Open development from the beginning
 

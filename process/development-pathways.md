@@ -4,7 +4,7 @@ This document is meant to help academics working on open source to understand ho
 
 ## 1. Guiding principle: developer choice
 
-ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue, and the authors' goals. Accordingly, **the choice of development pathway belongs to the project's developers and the academics working with them**, not ORCA Foundation. ORCA's role is to make the trade-offs of each pathway clear, to provide guidance that protects the academic publication, the open source project's ability to maintain production software, and the integrity of the Foundation's decisions.
+ORCA recognizes that the right balance between openness and confidentiality depends on the project, the venue where the research paper is submitted, and the authors' goals. Accordingly, **the choice of development pathway belongs to the project's developers and the academics working with them**, not ORCA Foundation. ORCA's role is to make the trade-offs of each pathway clear, to provide guidance that protects the academic publication, the open source project's ability to maintain production software, and the integrity of the Foundation's decisions.
 
 ## 2. Two diverse development pathways
 

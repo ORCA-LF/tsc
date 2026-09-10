@@ -1,0 +1,235 @@
+---
+# ============================================================
+# GENERATED FILE — DO NOT EDIT BY HAND
+#
+# Source of truth: tsc.yml
+# Regenerate with: python3 generate_gitvote_config.py
+#
+# Roster (5 members): balexios, cherishlxy, deadly-platypus, gricart, JustinCappos
+# Profiles: 16 (1 default + 15 recusal)
+# ============================================================
+
+audit:
+  enabled: true
+
+automation:
+  enabled: false
+  rules:
+    - patterns: []
+      profile: default
+
+profiles:
+  # No conflicts, full TSC  ->  /vote
+  # Binding voters: 5
+  default:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - deadly-platypus
+        - gricart
+        - JustinCappos
+
+  # Recused: balexios  ->  /vote-recused-balexios
+  # Binding voters: 4
+  recused-balexios:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - cherishlxy
+        - deadly-platypus
+        - gricart
+        - JustinCappos
+
+  # Recused: cherishlxy  ->  /vote-recused-cherishlxy
+  # Binding voters: 4
+  recused-cherishlxy:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - deadly-platypus
+        - gricart
+        - JustinCappos
+
+  # Recused: deadly-platypus  ->  /vote-recused-deadly-platypus
+  # Binding voters: 4
+  recused-deadly-platypus:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - gricart
+        - JustinCappos
+
+  # Recused: gricart  ->  /vote-recused-gricart
+  # Binding voters: 4
+  recused-gricart:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - deadly-platypus
+        - JustinCappos
+
+  # Recused: JustinCappos  ->  /vote-recused-JustinCappos
+  # Binding voters: 4
+  recused-JustinCappos:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - deadly-platypus
+        - gricart
+
+  # Recused: balexios, cherishlxy  ->  /vote-recused-balexios-cherishlxy
+  # Binding voters: 3
+  recused-balexios-cherishlxy:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - deadly-platypus
+        - gricart
+        - JustinCappos
+
+  # Recused: balexios, deadly-platypus  ->  /vote-recused-balexios-deadly-platypus
+  # Binding voters: 3
+  recused-balexios-deadly-platypus:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - cherishlxy
+        - gricart
+        - JustinCappos
+
+  # Recused: balexios, gricart  ->  /vote-recused-balexios-gricart
+  # Binding voters: 3
+  recused-balexios-gricart:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - cherishlxy
+        - deadly-platypus
+        - JustinCappos
+
+  # Recused: balexios, JustinCappos  ->  /vote-recused-balexios-JustinCappos
+  # Binding voters: 3
+  recused-balexios-JustinCappos:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - cherishlxy
+        - deadly-platypus
+        - gricart
+
+  # Recused: cherishlxy, deadly-platypus  ->  /vote-recused-cherishlxy-deadly-platypus
+  # Binding voters: 3
+  recused-cherishlxy-deadly-platypus:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - gricart
+        - JustinCappos
+
+  # Recused: cherishlxy, gricart  ->  /vote-recused-cherishlxy-gricart
+  # Binding voters: 3
+  recused-cherishlxy-gricart:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - deadly-platypus
+        - JustinCappos
+
+  # Recused: cherishlxy, JustinCappos  ->  /vote-recused-cherishlxy-JustinCappos
+  # Binding voters: 3
+  recused-cherishlxy-JustinCappos:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - deadly-platypus
+        - gricart
+
+  # Recused: deadly-platypus, gricart  ->  /vote-recused-deadly-platypus-gricart
+  # Binding voters: 3
+  recused-deadly-platypus-gricart:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - JustinCappos
+
+  # Recused: deadly-platypus, JustinCappos  ->  /vote-recused-deadly-platypus-JustinCappos
+  # Binding voters: 3
+  recused-deadly-platypus-JustinCappos:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - gricart
+
+  # Recused: gricart, JustinCappos  ->  /vote-recused-gricart-JustinCappos
+  # Binding voters: 3
+  recused-gricart-JustinCappos:
+    duration: 3 weeks
+    pass_threshold: 66.66
+    periodic_status_check: "5 days"
+    close_on_passing: false
+    allowed_voters:
+      users:
+        - balexios
+        - cherishlxy
+        - deadly-platypus

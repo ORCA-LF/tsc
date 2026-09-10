@@ -1,0 +1,43 @@
+---
+# ORCA TSC roster and voting settings.
+#
+# This is the SINGLE SOURCE OF TRUTH. Edit this file when TSC membership
+# changes, then regenerate .gitvote.yml:
+#
+#   python3 generate_gitvote_config.py
+#
+# Do not hand-edit .gitvote.yml — your changes will be overwritten.
+
+# GitHub login handles of current TSC members (github.com/<handle>).
+# Not display names, not email addresses.
+members:
+  - balexios
+  - cherishlxy
+  - deadly-platypus
+  - gricart
+  - JustinCappos
+
+settings:
+  # How long each project application vote stays open.
+  duration: 3 weeks
+
+  # Percentage of ALLOWED VOTERS that must be in favor (>=) to pass.
+  # 51 = strict majority at any roster size. 66 = two-thirds supermajority.
+  pass_threshold: 66.66
+
+  # Automatic status check cadence while the vote is open. null to disable.
+  periodic_status_check: "5 days"
+
+  # Generate recusal profiles for up to this many simultaneously conflicted
+  # members. 2 is usually enough; raising it grows the file combinatorially.
+  max_recusals: 2
+
+  # Refuse to generate a profile that would leave fewer than this many
+  # binding voters. Protects against a vote decided by one or two people.
+  min_binding_voters: 3
+
+  # Publish the voting history at gitvote.com/audit/OWNER/REPO
+  audit: true
+
+  # Auto-close the vote as soon as the threshold is met.
+  close_on_passing: false

@@ -53,8 +53,42 @@ def load_roster(path):
 
 
 def profile_name(recused):
-    """Deterministic profile name for a set of recused members."""
-    return "recused-" + "-".join(sorted(recused, key=str.lower))
+    """Deterministic profile name for a set of recused members.
+
+    GitVote parses commands with the regex:
+
+        ^/(vote|cancel-vote|check-vote)-?([a-zA-Z0-9]*)\\s*$
+
+    The profile group is [a-zA-Z0-9]* — ALPHANUMERIC ONLY. A profile name
+    containing a hyphen or underscore can never be invoked: the command is
+    silently ignored, with no error comment. Since GitHub handles may contain
+    hyphens, they are stripped and the parts joined in camelCase.
+
+        cherishlxy + gricart      -> recusedCherishlxyGricart
+        balexios + deadly-platypus -> recusedBalexiosDeadlyplatypus
+    """
+    parts = []
+    for handle in sorted(recused, key=str.lower):
+        stripped = "".join(c for c in handle if c.isalnum())
+        parts.append(stripped[0].upper() + stripped[1:])
+    return "recused" + "".join(parts)
+
+
+def check_invocable(profiles):
+    """Fail loudly if any generated name cannot be invoked via /vote-NAME."""
+    seen = {}
+    for name, _, recused in profiles:
+        if name != "default" and not name.isalnum():
+            sys.exit(
+                f"error: profile '{name}' is not alphanumeric — GitVote could "
+                "never match /vote-" + name
+            )
+        if name in seen:
+            sys.exit(
+                f"error: '{', '.join(recused)}' and '{', '.join(seen[name])}' "
+                f"both produce profile name '{name}'"
+            )
+        seen[name] = recused
 
 
 def build_profiles(members, settings):
@@ -75,6 +109,7 @@ def build_profiles(members, settings):
 def render(members, settings):
     """Render the full .gitvote.yml as text."""
     profiles = list(build_profiles(members, settings))
+    check_invocable(profiles)
     psc = settings["periodic_status_check"]
     psc_val = "null" if psc in (None, "null") else f'"{psc}"'
 

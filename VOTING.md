@@ -24,21 +24,22 @@ add the command does nothing.
 | Conflicted members | Command | Binding voters |
 | --- | --- | --- |
 | none | `/vote` | 5 |
-| balexios | `/vote-recused-balexios` | 4 |
-| cherishlxy | `/vote-recused-cherishlxy` | 4 |
-| deadly-platypus | `/vote-recused-deadly-platypus` | 4 |
-| gricart | `/vote-recused-gricart` | 4 |
-| JustinCappos | `/vote-recused-JustinCappos` | 4 |
-| balexios, cherishlxy | `/vote-recused-balexios-cherishlxy` | 3 |
-| balexios, deadly-platypus | `/vote-recused-balexios-deadly-platypus` | 3 |
-| balexios, gricart | `/vote-recused-balexios-gricart` | 3 |
-| balexios, JustinCappos | `/vote-recused-balexios-JustinCappos` | 3 |
-| cherishlxy, deadly-platypus | `/vote-recused-cherishlxy-deadly-platypus` | 3 |
-| cherishlxy, gricart | `/vote-recused-cherishlxy-gricart` | 3 |
-| cherishlxy, JustinCappos | `/vote-recused-cherishlxy-JustinCappos` | 3 |
-| deadly-platypus, gricart | `/vote-recused-deadly-platypus-gricart` | 3 |
-| deadly-platypus, JustinCappos | `/vote-recused-deadly-platypus-JustinCappos` | 3 |
-| gricart, JustinCappos | `/vote-recused-gricart-JustinCappos` | 3 |
+| balexios | `/vote-recusedBalexios` | 4 |
+| cherishlxy | `/vote-recusedCherishlxy` | 4 |
+| deadly-platypus | `/vote-recusedDeadlyplatypus` | 4 |
+| gricart | `/vote-recusedGricart` | 4 |
+| JustinCappos | `/vote-recusedJustinCappos` | 4 |
+| balexios, cherishlxy | `/vote-recusedBalexiosCherishlxy` | 3 |
+| balexios, deadly-platypus | `/vote-recusedBalexiosDeadlyplatypus` | 3 |
+| balexios, gricart | `/vote-recusedBalexiosGricart` | 3 |
+| balexios, JustinCappos | `/vote-recusedBalexiosJustinCappos` | 3 |
+| cherishlxy, deadly-platypus | `/vote-recusedCherishlxyDeadlyplatypus` | 3 |
+| cherishlxy, gricart | `/vote-recusedCherishlxyGricart` | 3 |
+| cherishlxy, JustinCappos | `/vote-recusedCherishlxyJustinCappos` | 3 |
+| deadly-platypus, gricart | `/vote-recusedDeadlyplatypusGricart` | 3 |
+| deadly-platypus, JustinCappos | `/vote-recusedDeadlyplatypusJustinCappos` | 3 |
+| gricart, JustinCappos | `/vote-recusedGricartJustinCappos` | 3 |
+
 
 
 Names in the command are alphabetical: `/vote-recused-balexios-cherishlxy` exists,

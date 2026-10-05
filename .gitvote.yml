@@ -22,7 +22,7 @@ profiles:
   # No conflicts, full TSC  ->  /vote
   # Binding voters: 5
   default:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -37,7 +37,7 @@ profiles:
   # Recused: balexios  ->  /vote-recusedBalexios
   # Binding voters: 4
   recusedBalexios:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -51,7 +51,7 @@ profiles:
   # Recused: cherishlxy  ->  /vote-recusedCherishlxy
   # Binding voters: 4
   recusedCherishlxy:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -65,7 +65,7 @@ profiles:
   # Recused: deadly-platypus  ->  /vote-recusedDeadlyplatypus
   # Binding voters: 4
   recusedDeadlyplatypus:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -79,7 +79,7 @@ profiles:
   # Recused: gricart  ->  /vote-recusedGricart
   # Binding voters: 4
   recusedGricart:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -93,7 +93,7 @@ profiles:
   # Recused: JustinCappos  ->  /vote-recusedJustinCappos
   # Binding voters: 4
   recusedJustinCappos:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -107,7 +107,7 @@ profiles:
   # Recused: balexios, cherishlxy  ->  /vote-recusedBalexiosCherishlxy
   # Binding voters: 3
   recusedBalexiosCherishlxy:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -120,7 +120,7 @@ profiles:
   # Recused: balexios, deadly-platypus  ->  /vote-recusedBalexiosDeadlyplatypus
   # Binding voters: 3
   recusedBalexiosDeadlyplatypus:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -133,7 +133,7 @@ profiles:
   # Recused: balexios, gricart  ->  /vote-recusedBalexiosGricart
   # Binding voters: 3
   recusedBalexiosGricart:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -146,7 +146,7 @@ profiles:
   # Recused: balexios, JustinCappos  ->  /vote-recusedBalexiosJustinCappos
   # Binding voters: 3
   recusedBalexiosJustinCappos:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -159,7 +159,7 @@ profiles:
   # Recused: cherishlxy, deadly-platypus  ->  /vote-recusedCherishlxyDeadlyplatypus
   # Binding voters: 3
   recusedCherishlxyDeadlyplatypus:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -172,7 +172,7 @@ profiles:
   # Recused: cherishlxy, gricart  ->  /vote-recusedCherishlxyGricart
   # Binding voters: 3
   recusedCherishlxyGricart:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -185,7 +185,7 @@ profiles:
   # Recused: cherishlxy, JustinCappos  ->  /vote-recusedCherishlxyJustinCappos
   # Binding voters: 3
   recusedCherishlxyJustinCappos:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -198,7 +198,7 @@ profiles:
   # Recused: deadly-platypus, gricart  ->  /vote-recusedDeadlyplatypusGricart
   # Binding voters: 3
   recusedDeadlyplatypusGricart:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -211,7 +211,7 @@ profiles:
   # Recused: deadly-platypus, JustinCappos  ->  /vote-recusedDeadlyplatypusJustinCappos
   # Binding voters: 3
   recusedDeadlyplatypusJustinCappos:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false
@@ -224,7 +224,7 @@ profiles:
   # Recused: gricart, JustinCappos  ->  /vote-recusedGricartJustinCappos
   # Binding voters: 3
   recusedGricartJustinCappos:
-    duration: 3 weeks
+    duration: 2 weeks
     pass_threshold: 66.66
     periodic_status_check: "5 days"
     close_on_passing: false

@@ -19,7 +19,7 @@ members:
 
 settings:
   # How long each project application vote stays open.
-  duration: 3 weeks
+  duration: 2 weeks
 
   # Percentage of ALLOWED VOTERS that must be in favor (>=) to pass.
   # 51 = strict majority at any roster size. 66 = two-thirds supermajority.
